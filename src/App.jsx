@@ -23,6 +23,7 @@ export default function App() {
           <StatCard icon="👥" label="Sample Users" value={sampleUsers.length} detail="Local JavaScript array" />
           <StatCard icon="⚙️" label="React Hooks" value="useState" detail="Search + useRef focus" />
           <StatCard icon="🌐" label="REST API" value="LAB 5–7" detail="Axios integration coming next" />
+          <p>Hello wolrd!</p>
         </section>
 
         <div className="content-grid">
